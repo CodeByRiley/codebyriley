@@ -5,8 +5,8 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
 ---
 
 ## 🕹️ Notable Projects
-- **[SiteRemake](https://github.com/CodeByRiley/SiteRemake)**  
-  *NuxtJS | Tailwind | [Live site](https://mathewdev.net/)*  
+- **[My Website!](https://github.com/CodeByRiley/CodeByRileySite)**  
+  *NuxtJS | Tailwind | [Visit Here!](https://codebyriley.com/)*  
   A personal website remake emphasizing modern web development with Vue.js.
 
 - **[LitchJava](https://github.com/CodeByRiley/LitchJava)**  
