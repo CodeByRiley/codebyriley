@@ -13,14 +13,13 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
   *Java | LWJGL*
   A developing Java-based game project, structured for extensibility and clean separation of concerns. The codebase emphasizes modularity, organized game logic, and a foundation suitable for prototyping gameplay mechanics and experimenting with core engine features.
 
-
 - **[ModifierModifier](https://github.com/CodeByRiley/ModifierModifier)**  
   *C# | Unity | BepInEx*  
-  A mod for SpiderHeck (Unity game) using BepInEx 6, exploring game modding and runtime patching.
+  A mod for SpiderHeck using BepInEx 6, exploring game modding and runtime patching.
 
 - **[DiscordHeck](https://github.com/CodeByRiley/DiscordHeck)**  
   *C# | MelonLoader*  
-  Discord Rich Presence mod for SpiderHeck, integrating real-time status updates for enhanced social gaming.
+  Discord Rich Presence mod for SpiderHeck, integrating real-time status updates.
 
 - **[ConsoleRPGGame](https://github.com/CodeByRiley/ConsoleRPGGame)**  
   *C#*  
