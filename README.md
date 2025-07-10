@@ -5,14 +5,14 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
 ---
 
 ## 🕹️ Notable Projects
+- **[SiteRemake](https://github.com/CodeByRiley/SiteRemake)**  
+  *NuxtJS | Tailwind | [Live site](https://mathewdev.net/)*  
+  A personal website remake emphasizing modern web development with Vue.js.
 
 - **[LitchJava](https://github.com/CodeByRiley/LitchJava)**  
-  *Java*  
+  *Java | LWJGL*
   A developing Java-based game project, structured for extensibility and clean separation of concerns. The codebase emphasizes modularity, organized game logic, and a foundation suitable for prototyping gameplay mechanics and experimenting with core engine features.
 
-- **[SiteRemake](https://github.com/CodeByRiley/SiteRemake)**  
-  *Vue | [Live site](https://mathewdev.net/)*  
-  A personal website remake emphasizing modern web development with Vue.js.
 
 - **[ModifierModifier](https://github.com/CodeByRiley/ModifierModifier)**  
   *C# | Unity | BepInEx*  
@@ -36,9 +36,7 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
 
 - Game development (Java, C++, C#, Unity)
 - Modding (BepInEx, MelonLoader)
-- Web development (Vue.js)
-- Experimenting with automation and developer tooling
-
+- Web development (NuxtJS v3, TailwindCSS)
 ---
 
 *Thanks for visiting!*
