@@ -7,7 +7,7 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
 ## 🕹️ Notable Projects
 - **[My Website!](https://github.com/CodeByRiley/CodeByRileySite)**  
   *NuxtJS | Tailwind | [Visit Here!](https://codebyriley.com/)*  
-  A personal website remake emphasizing modern web development with Vue.js.
+  My portfolio website built on NuxtJS V3. It also has a blog! Go check it out :) 
 
 - **[LitchJava](https://github.com/CodeByRiley/LitchJava)**  
   *Java | LWJGL*
