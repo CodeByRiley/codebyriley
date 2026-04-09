@@ -1,10 +1,10 @@
-# Hi, I'm Riley 👋
+# Hi, I'm Riley
 
 Welcome to my GitHub! Here you’ll find a collection of personal projects and experiments, mostly focused on game development, modding, and web technology.
 
 ---
 
-## 🕹️ Notable Projects
+## Notable Projects
 - **[My Website!](https://github.com/CodeByRiley/CodeByRileySite)**  
   *NuxtJS | [](https://codebyriley.com/)*  
   My personal website built on NuxtJS. It has a blog I sometimes upload to! Go check it out :) 
@@ -15,7 +15,7 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
 
 ---
 
-## 🛠️ Tech & Interests
+## Tech & Interests
 
 - Game development (Java, C++, C#, Unity)
 - Modding (BepInEx, MelonLoader)
