@@ -6,7 +6,7 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
 
 ## Notable Projects
 - **[My Website!](https://github.com/CodeByRiley/CodeByRileySite)**  
-  *NuxtJS | [](https://codebyriley.com/)*  
+  *NuxtJS | [Check it out!](https://codebyriley.com/)*  
   My personal website built on NuxtJS. It has a blog I sometimes upload to! Go check it out :) 
 
 - **[viadot](https://github.com/CodeByRiley/viadot)**  
