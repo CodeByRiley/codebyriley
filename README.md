@@ -9,7 +9,7 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
   *NuxtJS | [Check it out!](https://codebyriley.com/)*  
   My personal website built on NuxtJS. It has a blog I sometimes upload to! Go check it out :) 
 
-- **[viadot](https://github.com/CodeByRiley/viadot)**  
+- **[viadot](https://github.com/CodeByRiley/CodeByRiley)**  
   *Config | GitHub Profile*  
   Configuration files for my GitHub presence and automations.
 
