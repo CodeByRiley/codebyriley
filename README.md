@@ -18,8 +18,8 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
 ## Tech & Interests
 
 - Game development (Java, C++, C#, Unity)
-- Modding (BepInEx, MelonLoader)
-- Web development (NuxtJS v3, TailwindCSS)
+- Modding (Forge (1.7.10, 1.12.2, 1.20.1), BepInEx, MelonLoader)
+- Web development (NuxtJS v3, TailwindCSS, Custom SCSS)
 ---
 
 *Thanks for visiting!*
