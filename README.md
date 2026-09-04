@@ -5,6 +5,9 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
 ---
 
 ## Notable Projects
+- **[TOS](https://github.com/CodeByRiley/TOS)**  
+  *C, Assembly | x86_64 OS*  
+  An experimental x86_64 operating system built from scratch. Features a preemptive kernel with SMP, musl-backed POSIX compatibility, a GUI desktop with window management, and ports like DOOM.
 - **[My Website!](https://github.com/CodeByRiley/CodeByRileySite)**  
   *NuxtJS | [Check it out!](https://codebyriley.com/)*  
   My personal website built on NuxtJS. It has a blog I sometimes upload to! Go check it out :) 
