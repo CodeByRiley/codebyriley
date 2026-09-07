@@ -11,9 +11,9 @@ Welcome to my GitHub! Here you’ll find a collection of personal projects and e
 - **[HolyD](https://github.com/CodeByRiley/HolyD)**  
   *C | Language & VM*  
   A HolyC-flavored scripting language with a D accent. Includes a lightweight bytecode VM, C transpiler, and multi-platform FFI for windows, 2D graphics, input, and networking on both TOS and Windows.
-- **[My Website!](https://github.com/CodeByRiley/CodeByRileySite)**  
-  *NuxtJS | [Check it out!](https://codebyriley.com/)*  
-  My personal website built on NuxtJS. It has a blog I sometimes upload to! Go check it out :) 
+- **[My Website!](https://codebyriley.com/)**  
+  *Astro | [Check it out!](https://codebyriley.com/)*  
+  My personal website built on Astro. It has a blog I sometimes upload to! Go check it out :) 
 
 - **[CodeByRiley](https://github.com/CodeByRiley/CodeByRiley)**  
   *Config | GitHub Profile*  
