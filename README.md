@@ -4,7 +4,7 @@ Welcome to my GitHub! I build personal projects and experiments focused on my op
 
 ## Notable Projects
 
-- **[Gaia](https://github.com/CodeByRiley/Gaia)** | *(Formerly TOS)*
+- **[Gaia](https://github.com/CodeByRiley/Gaia)** *(Formerly TOS)* <br>
   *C, Assembly · x86_64 operating system*  
   An experimental x86_64 operating system built from scratch. It features a preemptive kernel with SMP support, musl-backed POSIX compatibility, a graphical desktop environment with window management, and ports such as DOOM.
 
